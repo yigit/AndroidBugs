@@ -27,7 +27,6 @@
               android:layout_width="wrap_content"
               android:layout_height="wrap_content"/>
     <ImageView
-            android:layerType="hardware"
             android:src="@drawable/google_logo"
             android:layout_width="100dp"
             android:layout_height="100dp"/>
